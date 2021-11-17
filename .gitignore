@@ -1,0 +1,14 @@
+# node_modules
+node_modules
+
+# env files
+.env
+!.env.exemple
+
+# lock files
+yarn.lock
+package-lock.json
+
+# uploads 
+uploads/*
+!uploads/.gitkeep
